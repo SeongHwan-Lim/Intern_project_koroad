@@ -22,3 +22,6 @@
           3의2. 그밖에 노인이 자주 왕래하는 곳으로 조례로 정하는 시설
       </h5>
 
+  <h4>
+    <a href= "https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%96%B4%EB%A6%B0%EC%9D%B4%E3%86%8D%EB%85%B8%EC%9D%B8%EB%B0%8F%EC%9E%A5%EC%95%A0%EC%9D%B8%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD%EC%9D%98%EC%A7%80%EC%A0%95%EB%B0%8F%EA%B4%80%EB%A6%AC%EC%97%90%EA%B4%80%ED%95%9C%EA%B7%9C%EC%B9%99/(00174,20200325)"
+    </a>자세한 내용</h4>
