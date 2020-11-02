@@ -1,16 +1,18 @@
 # 공공 빅데이터 청년 인턴쉽
 <h4>[기업] 도로교통공단 경기도지부</h4>
 <hr>
+
 <h4>[팀원]</h4>
 <ul>
-<li><h4><a href="https://github.com/happyhoo97">윤승후</a></h4></li>
-<li><h4><a href="https://github.com/Areum120">이아름</a></h4></li>
-<li><h4><a href="https://github.com/seo-1226">이서희</a></h4></li>
-<li><h4><a href="https://github.com/SeongHwan-Lim">임성환</a></h4></li>
+  <li><h4><a href="https://github.com/happyhoo97">윤승후</a></h4></li>
+  <li><h4><a href="https://github.com/Areum120">이아름</a></h4></li>
+  <li><h4><a href="https://github.com/seo-1226">이서희</a></h4></li>
+  <li><h4><a href="https://github.com/SeongHwan-Lim">임성환</a></h4></li>
 </ul>
+
 <hr>
 <h4>[팀 프로젝트]</h4>
-<ul><li><h5>프로젝트 명: 고령사고 심각도 분석을 통한 기존 노인보호구역 재검토 및 신규입지선정</h5></li>
+<li><h5>프로젝트 명: 고령사고 심각도 분석을 통한 기존 노인보호구역 재검토 및 신규입지선정</h5></li>
 <br>
 <li><h5>프로젝트 구현 목적</h5>
 <ul>
@@ -18,7 +20,9 @@
 </ul>
 </li>
 <br>
-<h5>프로젝트 기간: 2020.10.05~2020.12.31 (약 3개월)</h5>
+<li>
+  <h5>프로젝트 기간: 2020.10.05~2020.12.31 (약 3개월)</h5>
+</li>
 <br>
 <li><h5>역할 분담</h5></li>
 <ul>
