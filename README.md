@@ -57,10 +57,10 @@
     <h5>참고한 자료</h5>
       <ul>
         <li>
-          <h5><a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%96%B4%EB%A6%B0%EC%9D%B4%C2%B7%EB%85%B8%EC%9D%B8%20%EB%B0%8F%20%EC%9E%A5%EC%95%A0%EC%9D%B8%20%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD%EC%9D%98%20%EC%A7%80%EC%A0%95%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B7%9C%EC%B9%99"></a>어린이ㆍ노인 및 장애인 보호구역의 지정 및 관리에 관한 규칙</h5>
+          <h5><a href="https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%96%B4%EB%A6%B0%EC%9D%B4%C2%B7%EB%85%B8%EC%9D%B8%20%EB%B0%8F%20%EC%9E%A5%EC%95%A0%EC%9D%B8%20%EB%B3%B4%ED%98%B8%EA%B5%AC%EC%97%AD%EC%9D%98%20%EC%A7%80%EC%A0%95%20%EB%B0%8F%20%EA%B4%80%EB%A6%AC%EC%97%90%20%EA%B4%80%ED%95%9C%20%EA%B7%9C%EC%B9%99">어린이ㆍ노인 및 장애인 보호구역의 지정 및 관리에 관한 규칙</a></h5>
         </li>
         <li>
-          <h5><a href="https://www.easylaw.go.kr/CSP/Main.laf"></a>법률용어검색</h5>
+          <h5><a href="https://www.easylaw.go.kr/CSP/Main.laf">법률용어검색</a></h5>
         </li>
       </ul>
   </li>
